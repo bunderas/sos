@@ -1,0 +1,3047 @@
+[
+    {
+        "id": "2023.10.24-1",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174060000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 8
+        },
+        "players": [
+            "0",
+            "4"
+        ],
+        "line": "Marci;11;8;András"
+    },
+    {
+        "id": "2023.10.24-2",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174120000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 7
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;11;7;Pali"
+    },
+    {
+        "id": "2023.10.24-3",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174180000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 4
+        },
+        "players": [
+            "0",
+            "3"
+        ],
+        "line": "Marci;11;4;Pali"
+    },
+    {
+        "id": "2023.10.24-4",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174240000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 7
+        },
+        "players": [
+            "6",
+            "1"
+        ],
+        "line": "Gáspár;11;7;Luki"
+    },
+    {
+        "id": "2023.10.24-5",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174300000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 8
+        },
+        "players": [
+            "3",
+            "4"
+        ],
+        "line": "Pali;11;8;András"
+    },
+    {
+        "id": "2023.10.24-6",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174360000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 7
+        },
+        "players": [
+            "0",
+            "6"
+        ],
+        "line": "Marci;11;7;Gáspár"
+    },
+    {
+        "id": "2023.10.24-7",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174420000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 6
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;6;András"
+    },
+    {
+        "id": "2023.10.24-8",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174480000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "3"
+        ],
+        "line": "Marci;11;9;Pali"
+    },
+    {
+        "id": "2023.10.24-9",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174540000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 6
+        },
+        "players": [
+            "6",
+            "4"
+        ],
+        "line": "Gáspár;11;6;András"
+    },
+    {
+        "id": "2023.10.24-10",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174600000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 12
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 10
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;12;10;Pali"
+    },
+    {
+        "id": "2023.10.24-11",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174660000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 12
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 10
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;12;10;András"
+    },
+    {
+        "id": "2023.10.24-12",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174720000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 9
+        },
+        "players": [
+            "6",
+            "0"
+        ],
+        "line": "Gáspár;11;9;Marci"
+    },
+    {
+        "id": "2023.10.24-13",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174780000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 8
+        },
+        "players": [
+            "6",
+            "3"
+        ],
+        "line": "Gáspár;11;8;Pali"
+    },
+    {
+        "id": "2023.10.24-14",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174840000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 6
+        },
+        "players": [
+            "4",
+            "0"
+        ],
+        "line": "András;11;6;Marci"
+    },
+    {
+        "id": "2023.10.24-15",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174900000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 12
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 10
+        },
+        "players": [
+            "1",
+            "0"
+        ],
+        "line": "Luki;12;10;Marci"
+    },
+    {
+        "id": "2023.10.24-16",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698174960000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 5
+        },
+        "players": [
+            "6",
+            "4"
+        ],
+        "line": "Gáspár;11;5;András"
+    },
+    {
+        "id": "2023.10.24-17",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698175020000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "3"
+        ],
+        "line": "Marci;11;9;Pali"
+    },
+    {
+        "id": "2023.10.24-18",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698175080000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 13
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "players": [
+            "6",
+            "1"
+        ],
+        "line": "Gáspár;13;11;Luki"
+    },
+    {
+        "id": "2023.10.24-19",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698175140000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 9
+        },
+        "players": [
+            "3",
+            "4"
+        ],
+        "line": "Pali;11;9;András"
+    },
+    {
+        "id": "2023.10.24-20",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698175200000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 13
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;13;11;Luki"
+    },
+    {
+        "id": "2023.10.24-21",
+        "date": "2023.10.24",
+        "timestamp": 1698174000000,
+        "timestamp2": 1698175260000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 7
+        },
+        "players": [
+            "6",
+            "3"
+        ],
+        "line": "Gáspár;11;7;Pali"
+    },
+    {
+        "id": "2023.10.31-1",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782460000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 6
+        },
+        "players": [
+            "0",
+            "5"
+        ],
+        "line": "Marci;11;6;Laci"
+    },
+    {
+        "id": "2023.10.31-2",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782520000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 8
+        },
+        "players": [
+            "6",
+            "3"
+        ],
+        "line": "Gáspár;11;8;Pali"
+    },
+    {
+        "id": "2023.10.31-3",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782580000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 3
+        },
+        "players": [
+            "0",
+            "7"
+        ],
+        "line": "Marci;11;3;Csaba"
+    },
+    {
+        "id": "2023.10.31-4",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782640000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "1",
+            "2"
+        ],
+        "line": "Luki;11;6;Moha"
+    },
+    {
+        "id": "2023.10.31-5",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782700000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 7
+        },
+        "players": [
+            "5",
+            "3"
+        ],
+        "line": "Laci;11;7;Pali"
+    },
+    {
+        "id": "2023.10.31-6",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782760000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 4
+        },
+        "players": [
+            "1",
+            "6"
+        ],
+        "line": "Luki;11;4;Gáspár"
+    },
+    {
+        "id": "2023.10.31-7",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782820000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 8
+        },
+        "players": [
+            "3",
+            "0"
+        ],
+        "line": "Pali;11;8;Marci"
+    },
+    {
+        "id": "2023.10.31-8",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782880000,
+        "won": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 8
+        },
+        "players": [
+            "7",
+            "2"
+        ],
+        "line": "Csaba;11;8;Moha"
+    },
+    {
+        "id": "2023.10.31-9",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698782940000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 6
+        },
+        "players": [
+            "5",
+            "6"
+        ],
+        "line": "Laci;11;6;Gáspár"
+    },
+    {
+        "id": "2023.10.31-10",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783000000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 4
+        },
+        "players": [
+            "1",
+            "0"
+        ],
+        "line": "Luki;11;4;Marci"
+    },
+    {
+        "id": "2023.10.31-11",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783060000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "3",
+            "2"
+        ],
+        "line": "Pali;11;6;Moha"
+    },
+    {
+        "id": "2023.10.31-12",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783120000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;11;8;Pali"
+    },
+    {
+        "id": "2023.10.31-13",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783180000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 9
+        },
+        "players": [
+            "5",
+            "7"
+        ],
+        "line": "Laci;11;9;Csaba"
+    },
+    {
+        "id": "2023.10.31-14",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783240000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 13
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "players": [
+            "6",
+            "0"
+        ],
+        "line": "Gáspár;13;11;Marci"
+    },
+    {
+        "id": "2023.10.31-15",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783300000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 7
+        },
+        "players": [
+            "1",
+            "2"
+        ],
+        "line": "Luki;11;7;Moha"
+    },
+    {
+        "id": "2023.10.31-16",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783360000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 8
+        },
+        "players": [
+            "3",
+            "7"
+        ],
+        "line": "Pali;11;8;Csaba"
+    },
+    {
+        "id": "2023.10.31-17",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783420000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 3
+        },
+        "players": [
+            "1",
+            "5"
+        ],
+        "line": "Luki;11;3;Laci"
+    },
+    {
+        "id": "2023.10.31-18",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783480000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 7
+        },
+        "players": [
+            "6",
+            "2"
+        ],
+        "line": "Gáspár;11;7;Moha"
+    },
+    {
+        "id": "2023.10.31-19",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783540000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 6
+        },
+        "players": [
+            "0",
+            "3"
+        ],
+        "line": "Marci;11;6;Pali"
+    },
+    {
+        "id": "2023.10.31-20",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783600000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 7
+        },
+        "players": [
+            "1",
+            "7"
+        ],
+        "line": "Luki;11;7;Csaba"
+    },
+    {
+        "id": "2023.10.31-21",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783660000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;11;6;Moha"
+    },
+    {
+        "id": "2023.10.31-22",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783720000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 7
+        },
+        "players": [
+            "6",
+            "0"
+        ],
+        "line": "Gáspár;11;7;Marci"
+    },
+    {
+        "id": "2023.10.31-23",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783780000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 8
+        },
+        "players": [
+            "3",
+            "7"
+        ],
+        "line": "Pali;11;8;Csaba"
+    },
+    {
+        "id": "2023.10.31-24",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783840000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 12
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 10
+        },
+        "players": [
+            "1",
+            "5"
+        ],
+        "line": "Luki;12;10;Laci"
+    },
+    {
+        "id": "2023.10.31-25",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783900000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "2"
+        ],
+        "line": "Marci;11;9;Moha"
+    },
+    {
+        "id": "2023.10.31-26",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698783960000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;11;8;Pali"
+    },
+    {
+        "id": "2023.10.31-27",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784020000,
+        "won": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 9
+        },
+        "players": [
+            "7",
+            "6"
+        ],
+        "line": "Csaba;11;9;Gáspár"
+    },
+    {
+        "id": "2023.10.31-28",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784080000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 8
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;11;8;Moha"
+    },
+    {
+        "id": "2023.10.31-29",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784140000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 4
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;11;4;Luki"
+    },
+    {
+        "id": "2023.10.31-30",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784200000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 7
+        },
+        "players": [
+            "5",
+            "7"
+        ],
+        "line": "Laci;11;7;Csaba"
+    },
+    {
+        "id": "2023.10.31-31",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784260000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "0",
+            "2"
+        ],
+        "line": "Marci;11;6;Moha"
+    },
+    {
+        "id": "2023.10.31-32",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784320000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 4
+        },
+        "players": [
+            "5",
+            "3"
+        ],
+        "line": "Laci;11;4;Pali"
+    },
+    {
+        "id": "2023.10.31-33",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784380000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 11
+        },
+        "lost": {
+            "id": "7",
+            "displayName": "Csaba",
+            "points": 9
+        },
+        "players": [
+            "2",
+            "7"
+        ],
+        "line": "Moha;11;9;Csaba"
+    },
+    {
+        "id": "2023.10.31-34",
+        "date": "2023.10.31",
+        "timestamp": 1698782400000,
+        "timestamp2": 1698784440000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 9
+        },
+        "players": [
+            "6",
+            "1"
+        ],
+        "line": "Gáspár;11;9;Luki"
+    },
+    {
+        "id": "2023.11.07-1",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387260000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 6
+        },
+        "players": [
+            "5",
+            "3"
+        ],
+        "line": "Laci;11;6;Pali"
+    },
+    {
+        "id": "2023.11.07-2",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387320000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 12
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 10
+        },
+        "players": [
+            "0",
+            "4"
+        ],
+        "line": "Marci;12;10;András"
+    },
+    {
+        "id": "2023.11.07-3",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387380000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 9
+        },
+        "players": [
+            "6",
+            "2"
+        ],
+        "line": "Gáspár;11;9;Moha"
+    },
+    {
+        "id": "2023.11.07-4",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387440000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 7
+        },
+        "players": [
+            "1",
+            "5"
+        ],
+        "line": "Luki;11;7;Laci"
+    },
+    {
+        "id": "2023.11.07-5",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387500000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "3",
+            "2"
+        ],
+        "line": "Pali;11;6;Moha"
+    },
+    {
+        "id": "2023.11.07-6",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387560000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 9
+        },
+        "players": [
+            "6",
+            "0"
+        ],
+        "line": "Gáspár;11;9;Marci"
+    },
+    {
+        "id": "2023.11.07-7",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387620000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 6
+        },
+        "players": [
+            "5",
+            "3"
+        ],
+        "line": "Laci;11;6;Pali"
+    },
+    {
+        "id": "2023.11.07-8",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387680000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 9
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;9;András"
+    },
+    {
+        "id": "2023.11.07-9",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387740000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 8
+        },
+        "players": [
+            "2",
+            "0"
+        ],
+        "line": "Moha;11;8;Marci"
+    },
+    {
+        "id": "2023.11.07-10",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387800000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 7
+        },
+        "players": [
+            "5",
+            "6"
+        ],
+        "line": "Laci;11;7;Gáspár"
+    },
+    {
+        "id": "2023.11.07-11",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387860000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 9
+        },
+        "players": [
+            "3",
+            "4"
+        ],
+        "line": "Pali;11;9;András"
+    },
+    {
+        "id": "2023.11.07-12",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387920000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 2
+        },
+        "players": [
+            "1",
+            "2"
+        ],
+        "line": "Luki;11;2;Moha"
+    },
+    {
+        "id": "2023.11.07-13",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699387980000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 4
+        },
+        "players": [
+            "5",
+            "0"
+        ],
+        "line": "Laci;11;4;Marci"
+    },
+    {
+        "id": "2023.11.07-14",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388040000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 4
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;4;András"
+    },
+    {
+        "id": "2023.11.07-15",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388100000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 12
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 10
+        },
+        "players": [
+            "6",
+            "3"
+        ],
+        "line": "Gáspár;12;10;Pali"
+    },
+    {
+        "id": "2023.11.07-16",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388160000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 7
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;11;7;Moha"
+    },
+    {
+        "id": "2023.11.07-17",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388220000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 6
+        },
+        "players": [
+            "6",
+            "4"
+        ],
+        "line": "Gáspár;11;6;András"
+    },
+    {
+        "id": "2023.11.07-18",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388280000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 12
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 10
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;12;10;Luki"
+    },
+    {
+        "id": "2023.11.07-19",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388340000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 7
+        },
+        "players": [
+            "6",
+            "5"
+        ],
+        "line": "Gáspár;11;7;Laci"
+    },
+    {
+        "id": "2023.11.07-20",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388400000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 7
+        },
+        "players": [
+            "0",
+            "2"
+        ],
+        "line": "Marci;11;7;Moha"
+    },
+    {
+        "id": "2023.11.07-21",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388460000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 8
+        },
+        "players": [
+            "3",
+            "2"
+        ],
+        "line": "Pali;11;8;Moha"
+    },
+    {
+        "id": "2023.11.07-22",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388520000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;11;8;Pali"
+    },
+    {
+        "id": "2023.11.07-23",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388580000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 2
+        },
+        "players": [
+            "5",
+            "4"
+        ],
+        "line": "Laci;11;2;András"
+    },
+    {
+        "id": "2023.11.07-24",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388640000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "6"
+        ],
+        "line": "Luki;11;8;Gáspár"
+    },
+    {
+        "id": "2023.11.07-25",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388700000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 3
+        },
+        "players": [
+            "4",
+            "2"
+        ],
+        "line": "András;11;3;Moha"
+    },
+    {
+        "id": "2023.11.07-26",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388760000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 13
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "players": [
+            "3",
+            "0"
+        ],
+        "line": "Pali;13;11;Marci"
+    },
+    {
+        "id": "2023.11.07-27",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388820000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 8
+        },
+        "players": [
+            "5",
+            "1"
+        ],
+        "line": "Laci;11;8;Luki"
+    },
+    {
+        "id": "2023.11.07-28",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388880000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 7
+        },
+        "players": [
+            "3",
+            "4"
+        ],
+        "line": "Pali;11;7;András"
+    },
+    {
+        "id": "2023.11.07-29",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699388940000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 12
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 10
+        },
+        "players": [
+            "2",
+            "6"
+        ],
+        "line": "Moha;12;10;Gáspár"
+    },
+    {
+        "id": "2023.11.07-30",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699389000000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 8
+        },
+        "players": [
+            "5",
+            "0"
+        ],
+        "line": "Laci;11;8;Marci"
+    },
+    {
+        "id": "2023.11.07-31",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699389060000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;8;András"
+    },
+    {
+        "id": "2023.11.07-32",
+        "date": "2023.11.07",
+        "timestamp": 1699387200000,
+        "timestamp2": 1699389120000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 6
+        },
+        "players": [
+            "3",
+            "6"
+        ],
+        "line": "Pali;11;6;Gáspár"
+    },
+    {
+        "id": "2023.11.14-1",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992060000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 8
+        },
+        "players": [
+            "0",
+            "4"
+        ],
+        "line": "Marci;11;8;András"
+    },
+    {
+        "id": "2023.11.14-2",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992120000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 8
+        },
+        "players": [
+            "5",
+            "3"
+        ],
+        "line": "Laci;11;8;Pali"
+    },
+    {
+        "id": "2023.11.14-3",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992180000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "2"
+        ],
+        "line": "Luki;11;8;Moha"
+    },
+    {
+        "id": "2023.11.14-4",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992240000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 7
+        },
+        "players": [
+            "5",
+            "4"
+        ],
+        "line": "Laci;11;7;András"
+    },
+    {
+        "id": "2023.11.14-5",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992300000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 12
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 10
+        },
+        "players": [
+            "0",
+            "3"
+        ],
+        "line": "Marci;12;10;Pali"
+    },
+    {
+        "id": "2023.11.14-6",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992360000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 9
+        },
+        "players": [
+            "1",
+            "2"
+        ],
+        "line": "Luki;11;9;Moha"
+    },
+    {
+        "id": "2023.11.14-7",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992420000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 4
+        },
+        "players": [
+            "5",
+            "0"
+        ],
+        "line": "Laci;11;4;Marci"
+    },
+    {
+        "id": "2023.11.14-8",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992480000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 6
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;11;6;Pali"
+    },
+    {
+        "id": "2023.11.14-9",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992540000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 9
+        },
+        "players": [
+            "5",
+            "0"
+        ],
+        "line": "Laci;11;9;Marci"
+    },
+    {
+        "id": "2023.11.14-10",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992600000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 14
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 12
+        },
+        "players": [
+            "2",
+            "4"
+        ],
+        "line": "Moha;14;12;András"
+    },
+    {
+        "id": "2023.11.14-11",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992660000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 4
+        },
+        "players": [
+            "1",
+            "3"
+        ],
+        "line": "Luki;11;4;Pali"
+    },
+    {
+        "id": "2023.11.14-12",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992720000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 5
+        },
+        "players": [
+            "5",
+            "1"
+        ],
+        "line": "Laci;11;5;Luki"
+    },
+    {
+        "id": "2023.11.14-13",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992780000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 12
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 10
+        },
+        "players": [
+            "4",
+            "3"
+        ],
+        "line": "András;12;10;Pali"
+    },
+    {
+        "id": "2023.11.14-14",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992840000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 3
+        },
+        "players": [
+            "5",
+            "1"
+        ],
+        "line": "Laci;11;3;Luki"
+    },
+    {
+        "id": "2023.11.14-15",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992900000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 13
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "players": [
+            "2",
+            "0"
+        ],
+        "line": "Moha;13;11;Marci"
+    },
+    {
+        "id": "2023.11.14-16",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699992960000,
+        "won": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 6
+        },
+        "players": [
+            "3",
+            "5"
+        ],
+        "line": "Pali;11;6;Laci"
+    },
+    {
+        "id": "2023.11.14-17",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993020000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 3
+        },
+        "players": [
+            "4",
+            "1"
+        ],
+        "line": "András;11;3;Luki"
+    },
+    {
+        "id": "2023.11.14-18",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993080000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 7
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;7;András"
+    },
+    {
+        "id": "2023.11.14-19",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993140000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "3"
+        ],
+        "line": "Marci;11;9;Pali"
+    },
+    {
+        "id": "2023.11.14-20",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993200000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 1
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;11;1;Moha"
+    },
+    {
+        "id": "2023.11.14-21",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993260000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 12
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 10
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;12;10;Moha"
+    },
+    {
+        "id": "2023.11.14-22",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993320000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 11
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 6
+        },
+        "players": [
+            "2",
+            "3"
+        ],
+        "line": "Moha;11;6;Pali"
+    },
+    {
+        "id": "2023.11.14-23",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993380000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 8
+        },
+        "players": [
+            "4",
+            "5"
+        ],
+        "line": "András;11;8;Laci"
+    },
+    {
+        "id": "2023.11.14-24",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993440000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 5
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;11;5;Luki"
+    },
+    {
+        "id": "2023.11.14-25",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993500000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;11;9;Luki"
+    },
+    {
+        "id": "2023.11.14-26",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993560000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 12
+        },
+        "lost": {
+            "id": "3",
+            "displayName": "Pali",
+            "points": 10
+        },
+        "players": [
+            "2",
+            "3"
+        ],
+        "line": "Moha;12;10;Pali"
+    },
+    {
+        "id": "2023.11.14-27",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993620000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 7
+        },
+        "players": [
+            "0",
+            "4"
+        ],
+        "line": "Marci;11;7;András"
+    },
+    {
+        "id": "2023.11.14-28",
+        "date": "2023.11.14",
+        "timestamp": 1699992000000,
+        "timestamp2": 1699993680000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 9
+        },
+        "players": [
+            "5",
+            "1"
+        ],
+        "line": "Laci;11;9;Luki"
+    },
+    {
+        "id": "2023.11.28-1",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701201660000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 7
+        },
+        "players": [
+            "4",
+            "5"
+        ],
+        "line": "András;11;7;Laci"
+    },
+    {
+        "id": "2023.11.28-2",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701201720000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 12
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 10
+        },
+        "players": [
+            "6",
+            "0"
+        ],
+        "line": "Gáspár;12;10;Marci"
+    },
+    {
+        "id": "2023.11.28-3",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701201780000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 13
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "players": [
+            "2",
+            "1"
+        ],
+        "line": "Moha;13;11;Luki"
+    },
+    {
+        "id": "2023.11.28-4",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701201840000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 9
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;9;András"
+    },
+    {
+        "id": "2023.11.28-5",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701201900000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "6",
+            "2"
+        ],
+        "line": "Gáspár;11;6;Moha"
+    },
+    {
+        "id": "2023.11.28-6",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701201960000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 9
+        },
+        "players": [
+            "1",
+            "6"
+        ],
+        "line": "Luki;11;9;Gáspár"
+    },
+    {
+        "id": "2023.11.28-7",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202020000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 9
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;11;9;Moha"
+    },
+    {
+        "id": "2023.11.28-8",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202080000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 8
+        },
+        "players": [
+            "0",
+            "5"
+        ],
+        "line": "Marci;11;8;Laci"
+    },
+    {
+        "id": "2023.11.28-9",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202140000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 8
+        },
+        "players": [
+            "0",
+            "5"
+        ],
+        "line": "Marci;11;8;Laci"
+    },
+    {
+        "id": "2023.11.28-10",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202200000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "4"
+        ],
+        "line": "Marci;11;9;András"
+    },
+    {
+        "id": "2023.11.28-11",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202260000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 5
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;11;5;Luki"
+    },
+    {
+        "id": "2023.11.28-12",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202320000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 12
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 10
+        },
+        "players": [
+            "6",
+            "5"
+        ],
+        "line": "Gáspár;12;10;Laci"
+    },
+    {
+        "id": "2023.11.28-13",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202380000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 9
+        },
+        "players": [
+            "4",
+            "2"
+        ],
+        "line": "András;11;9;Moha"
+    },
+    {
+        "id": "2023.11.28-14",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202440000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 13
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "players": [
+            "5",
+            "1"
+        ],
+        "line": "Laci;13;11;Luki"
+    },
+    {
+        "id": "2023.11.28-15",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202500000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 6
+        },
+        "players": [
+            "6",
+            "4"
+        ],
+        "line": "Gáspár;11;6;András"
+    },
+    {
+        "id": "2023.11.28-16",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202560000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 5
+        },
+        "players": [
+            "0",
+            "1"
+        ],
+        "line": "Marci;11;5;Luki"
+    },
+    {
+        "id": "2023.11.28-17",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202620000,
+        "won": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 13
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "players": [
+            "2",
+            "0"
+        ],
+        "line": "Moha;13;11;Marci"
+    },
+    {
+        "id": "2023.11.28-18",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202680000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 8
+        },
+        "players": [
+            "1",
+            "6"
+        ],
+        "line": "Luki;11;8;Gáspár"
+    },
+    {
+        "id": "2023.11.28-19",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202740000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 7
+        },
+        "players": [
+            "5",
+            "2"
+        ],
+        "line": "Laci;11;7;Moha"
+    },
+    {
+        "id": "2023.11.28-20",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202800000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 8
+        },
+        "players": [
+            "0",
+            "4"
+        ],
+        "line": "Marci;11;8;András"
+    },
+    {
+        "id": "2023.11.28-21",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202860000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "4",
+            "displayName": "András",
+            "points": 4
+        },
+        "players": [
+            "1",
+            "4"
+        ],
+        "line": "Luki;11;4;András"
+    },
+    {
+        "id": "2023.11.28-22",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202920000,
+        "won": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 8
+        },
+        "players": [
+            "5",
+            "6"
+        ],
+        "line": "Laci;11;8;Gáspár"
+    },
+    {
+        "id": "2023.11.28-23",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701202980000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 6
+        },
+        "players": [
+            "0",
+            "2"
+        ],
+        "line": "Marci;11;6;Moha"
+    },
+    {
+        "id": "2023.11.28-24",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203040000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 5
+        },
+        "players": [
+            "1",
+            "5"
+        ],
+        "line": "Luki;11;5;Laci"
+    },
+    {
+        "id": "2023.11.28-25",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203100000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 4
+        },
+        "players": [
+            "1",
+            "5"
+        ],
+        "line": "Luki;11;4;Laci"
+    },
+    {
+        "id": "2023.11.28-26",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203160000,
+        "won": {
+            "id": "1",
+            "displayName": "Luki",
+            "points": 11
+        },
+        "lost": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 3
+        },
+        "players": [
+            "1",
+            "6"
+        ],
+        "line": "Luki;11;3;Gáspár"
+    },
+    {
+        "id": "2023.11.28-27",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203220000,
+        "won": {
+            "id": "6",
+            "displayName": "Gáspár",
+            "points": 11
+        },
+        "lost": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 7
+        },
+        "players": [
+            "6",
+            "0"
+        ],
+        "line": "Gáspár;11;7;Marci"
+    },
+    {
+        "id": "2023.11.28-28",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203280000,
+        "won": {
+            "id": "0",
+            "displayName": "Marci",
+            "points": 11
+        },
+        "lost": {
+            "id": "5",
+            "displayName": "Laci",
+            "points": 9
+        },
+        "players": [
+            "0",
+            "5"
+        ],
+        "line": "Marci;11;9;Laci"
+    },
+    {
+        "id": "2023.11.28-29",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203340000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 16
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 14
+        },
+        "players": [
+            "4",
+            "2"
+        ],
+        "line": "András;16;14;Moha"
+    },
+    {
+        "id": "2023.11.28-30",
+        "date": "2023.11.28",
+        "timestamp": 1701201600000,
+        "timestamp2": 1701203400000,
+        "won": {
+            "id": "4",
+            "displayName": "András",
+            "points": 11
+        },
+        "lost": {
+            "id": "2",
+            "displayName": "Moha",
+            "points": 9
+        },
+        "players": [
+            "4",
+            "2"
+        ],
+        "line": "András;11;9;Moha"
+    }
+]

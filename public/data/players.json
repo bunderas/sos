@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0",
+    "name":"Marci",
+    "displayName":"Marci" 
+  },
+  {
+    "id": "1",
+    "name":"Luki",
+    "displayName":"Luki" 
+  },
+  {
+    "id": "2",
+    "name":"Moha",
+    "displayName":"Moha" 
+  },
+  {
+    "id": "3",
+    "name":"Pali",
+    "displayName":"Pali" 
+  },
+  {
+    "id": "4",
+    "name":"András",
+    "displayName":"András" 
+  },
+  {
+    "id": "5",
+    "name":"Laci",
+    "displayName":"Laci" 
+  },
+  {
+    "id": "6",
+    "name":"Gáspár",
+    "displayName":"Gáspár" 
+  },
+  {
+    "id": "7",
+    "name":"Csaba",
+    "displayName":"Csaba" 
+  }
+]
