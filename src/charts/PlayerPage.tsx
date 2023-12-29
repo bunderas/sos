@@ -2,29 +2,35 @@
 
 import dynamic from "next/dynamic";
 const ReactApexChart = dynamic(() => import("react-apexcharts"), { ssr: false });
-import { RadarSerie } from "@/utils/charts";
+import { ChartDataRecord, ChartDataType } from "@/utils/charts";
 import { ApexOptions } from "apexcharts";
 import React from "react";
+import getPlayersRadarData from "@/utils/getRadarData";
 // import ReactApexChart from "react-apexcharts";
 
-export type ChartProps = {
-  series: RadarSerie[]  ;
-  categories: string[];
+type PlayerPageProps = {
+  id: string;
 }
-export type ChartState = {
-  options: ApexOptions
+
+type PlayerPageState = {
+  options: ApexOptions,
 }
 
 const colors = ["#0f0", "#f00"];
 
-export class RadarChart extends React.Component<ChartProps, ChartState> {
-  constructor(props: ChartProps) {
-    super(props);
+export class PlayerPage extends React.Component<PlayerPageProps, PlayerPageState> {
+  private getData(id: string){
+    
+  }
 
+  constructor(props: PlayerPageProps) {
+    super(props);
+ 
     this.state = {
       options: {
         chart: {
-          height: 350,
+          height: 351,
+          width: 100,
           type: 'radar',
           dropShadow: {
             enabled: true,
@@ -76,15 +82,16 @@ export class RadarChart extends React.Component<ChartProps, ChartState> {
   }
 
   render() {
+    const data:ChartDataRecord = getPlayersRadarData(this.props.id)
     return (
       <div id="chart">
       <ReactApexChart 
         options={{
           ...this.state.options,
-          labels: this.props.categories
+          labels: data['radar'].categories
         }} 
-        series={this.props.series} 
-        type="radar" height={350} />
+        series={data['radar'].series} 
+        type="radar" height={350} width={350} />
       </div>
     );
   }

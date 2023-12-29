@@ -7,7 +7,6 @@ import ResponsiveAppBar from "./ResponsiveAppBar";
 export default function MainPage(){
   const [content, setContent] = useState("home")
   function handleTitleChange(id:string) {
-    debugger
     console.log('app/page.tsx [10] :: id : ', id)
     setContent(id)
   }
