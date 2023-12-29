@@ -1,11 +1,11 @@
-export type RadarType ={
-  series: RadarSerie[],
-  // series: ApexAxisChartSeries,
+export type ChartDataType ={
+  series: ChartDataSerie[],
   categories: string[]
 }
 
-export type RadarSerie = {
+export type ChartDataSerie = {
   name: string,
   data: number[]
 }
 
+export type ChartDataRecord = Record<string, ChartDataType>
